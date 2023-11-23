@@ -1,0 +1,8 @@
+com\mycompany\loginform\RegistrationGUI.class
+com\mycompany\loginform\LoginForm.class
+com\mycompany\loginform\SignInGUI$1.class
+com\mycompany\loginform\SignInGUI.class
+com\mycompany\loginform\data\Lecturer.class
+com\mycompany\loginform\data\Pair.class
+com\mycompany\loginform\data\UserDatabase.class
+com\mycompany\loginform\data\CourseRegistration.class
