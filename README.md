@@ -2,7 +2,7 @@
 <h2>Features</h2>
 <li>Providing form for students demanding in regsitering courses</li>
 <li>Editable form by numerous functions: <code>Add</code>, <code>Delete</code> courses, <code>Cancel</code> regsister</li>
-<li><code>Frontend</code> Powered by Java Swing, which brings a classic and effortless experiences for users</li>
+<li><code>Frontend</code> Powered by Java Swing, which brings a classic and effortless experience for users</li>
 <li><code>Backend</code> Integrating SQL Server as a data storage for saving and retrieving all relevant datas</li>
 <br>
 <h1>Frontend</h1>
