@@ -20,10 +20,10 @@
 <h3><code>Section 1</code> Filling informations</h3>
 <p>Let me introduce some basic traits</p>
 <li>Maximizing user expirience by well-prepared lists which are contained in dropboxes, you can effortlessly choose your appropriate courses and relevant informations about the course will be automatically displayed in non-dropbox containers</li>
-<li>Functional buttons: <code>Register</code> for verifying that you have filled up all course informations, and they will be exhibited on the table below <code>Remove</code> for deleting the chosen course in the table below as well as permanently removing your registered course, and <code>Save</code> for officialy saving courses in databases, which means you cannot modify your registered courses list unless you re-display them in the table on the following login session </li>
+<li>Functional buttons: <code>Register</code> for verifying that you have filled up all course informations, and they will be exhibited on the table below,  <code>Remove</code> for deleting the chosen course in the table below as well as permanently removing your registered course, and <code>Save</code> for officialy saving courses into databases, which means you cannot modify your registered courses list unless you re-display them in the table on the following login session </li>
 <br>
 <h3><code>Section 2</code> Displaying registered courses</h3>
-<p>As I mentioned above, this table will show you all courses that have been registered so far, including in the past and after the moment you press a <code>Register</code>button</p>
+<p>As I mentioned above, this table will show you all courses that have been registered so far, including the past and after the moment you press a <code>Register</code>button</p>
 <br>
 <h1>Screenshots</h1>
 <img align="center" src="https://github.com/O-oLogN/Java-SQL-Connection/assets/100874484/ee7fb01c-1c68-4143-a000-131299703a69" alt="login-failed">
